@@ -1,4 +1,4 @@
-# Covid19-Vaccine-Tweets-Sentiment-Analysis using twint
+# Covid19-Vaccine-Tweets-Sentiment-Analysis
 Overall Sentiments for Covaxin, Covidshield and Sputnik V
 
 ![download11](https://user-images.githubusercontent.com/47265675/123936879-3a92ba80-d9b3-11eb-8041-9157d6d30dee.png)
